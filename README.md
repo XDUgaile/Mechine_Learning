@@ -1,5 +1,12 @@
 # Mechine_Learning
-XDU 网信院 机器学习大作业（这个大作业19、20、21级都不一样,但是大差不差，仅供参考）（18级的和21级一样|嘿嘿|）
+XDU 网信院 机器学习大作业（这个大作业19、20、21级都不一样,但是大差不差，仅供参考）
+
+实验环境：TensorFlow 2.x 及相关依赖
+
+参考[LPC0523/XDU_SCE_AI](https://github.com/LPC0523/XDU_SCE_AI)
+[data_analysis](https://github.com/naturliche/data_analysis)
+
+依据个人对k折交叉验证法的理解作了部分修改
 
 要求如下：
 
