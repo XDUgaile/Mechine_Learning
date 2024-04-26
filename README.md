@@ -1,6 +1,8 @@
 # Mechine_Learning
 XDU 网信院 机器学习大作业（这个大作业19、20、21级都不一样,但是大差不差，仅供参考）
 
+人工智能实验
+
 实验环境：TensorFlow 2.x 及相关依赖
 
 参考[LPC0523/XDU_SCE_AI](https://github.com/LPC0523/XDU_SCE_AI)
